@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{754E53CA-7D8D-49B1-94B1-2DA6966E0B40}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventsInfrastructure/BdeventsContext.cs">
+    <Files>
+      <File FileName="EventsDomain/Models/Entity.cs" Line="10" Column="62" />
+      <File FileName="EventsInfrastructure/Controllers/DepartmentsController.cs" Line="75" Column="75" />
+      <File FileName="EventsInfrastructure/Controllers/FacultiesController.cs" Line="92" Column="62" />
+      <File FileName="EventsDomain/Models/Faculty.cs" Line="16" Column="46" />
+      <File FileName="EventsInfrastructure/BdeventsContext.cs" Line="93" Column="1" />
+      <File FileName="EventsInfrastructure/appsettings.json" Line="15" Column="1" />
+      <File FileName="EventsInfrastructure/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EventsMVS" expanded="True">
+            <Node name="EventsDomain">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="EventsInfrastructure">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="BdeventsContext.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.EventsInfrastructure PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
